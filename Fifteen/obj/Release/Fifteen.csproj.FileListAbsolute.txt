@@ -1,0 +1,16 @@
+C:\Users\eugen\Documents\Visual Studio 2015\Projects\Fifteen\Fifteen\bin\Release\Fifteen.exe.config
+C:\Users\eugen\Documents\Visual Studio 2015\Projects\Fifteen\Fifteen\bin\Release\Fifteen.exe
+C:\Users\eugen\Documents\Visual Studio 2015\Projects\Fifteen\Fifteen\bin\Release\Fifteen.pdb
+C:\Users\eugen\Documents\Visual Studio 2015\Projects\Fifteen\Fifteen\obj\Release\MainWindow.g.cs
+C:\Users\eugen\Documents\Visual Studio 2015\Projects\Fifteen\Fifteen\obj\Release\App.g.cs
+C:\Users\eugen\Documents\Visual Studio 2015\Projects\Fifteen\Fifteen\obj\Release\Fifteen_MarkupCompile.cache
+C:\Users\eugen\Documents\Visual Studio 2015\Projects\Fifteen\Fifteen\obj\Release\Fifteen_MarkupCompile.lref
+C:\Users\eugen\Documents\Visual Studio 2015\Projects\Fifteen\Fifteen\obj\Release\MainWindow.baml
+C:\Users\eugen\Documents\Visual Studio 2015\Projects\Fifteen\Fifteen\obj\Release\Fifteen.g.resources
+C:\Users\eugen\Documents\Visual Studio 2015\Projects\Fifteen\Fifteen\obj\Release\Fifteen.Properties.Resources.resources
+C:\Users\eugen\Documents\Visual Studio 2015\Projects\Fifteen\Fifteen\obj\Release\Fifteen.csproj.GenerateResource.Cache
+C:\Users\eugen\Documents\Visual Studio 2015\Projects\Fifteen\Fifteen\obj\Release\Fifteen.exe
+C:\Users\eugen\Documents\Visual Studio 2015\Projects\Fifteen\Fifteen\obj\Release\Fifteen.pdb
+C:\Users\eugen\Documents\Visual Studio 2015\Projects\Fifteen\Fifteen\obj\Release\Fifteen.csprojResolveAssemblyReference.cache
+C:\Users\eugen\Documents\Visual Studio 2015\Projects\Fifteen\Fifteen\obj\Release\WindowComplete.g.cs
+C:\Users\eugen\Documents\Visual Studio 2015\Projects\Fifteen\Fifteen\obj\Release\WindowComplete.baml

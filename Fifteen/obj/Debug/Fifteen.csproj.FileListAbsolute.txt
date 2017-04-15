@@ -1,0 +1,16 @@
+c:\users\eugen\documents\visual studio 2015\Projects\Fifteen\Fifteen\bin\Debug\Fifteen.exe.config
+c:\users\eugen\documents\visual studio 2015\Projects\Fifteen\Fifteen\obj\Debug\Fifteen.csprojResolveAssemblyReference.cache
+c:\users\eugen\documents\visual studio 2015\Projects\Fifteen\Fifteen\obj\Debug\MainWindow.g.cs
+c:\users\eugen\documents\visual studio 2015\Projects\Fifteen\Fifteen\obj\Debug\App.g.cs
+c:\users\eugen\documents\visual studio 2015\Projects\Fifteen\Fifteen\obj\Debug\Fifteen_MarkupCompile.cache
+c:\users\eugen\documents\visual studio 2015\Projects\Fifteen\Fifteen\obj\Debug\Fifteen_MarkupCompile.lref
+c:\users\eugen\documents\visual studio 2015\Projects\Fifteen\Fifteen\bin\Debug\Fifteen.exe
+c:\users\eugen\documents\visual studio 2015\Projects\Fifteen\Fifteen\bin\Debug\Fifteen.pdb
+c:\users\eugen\documents\visual studio 2015\Projects\Fifteen\Fifteen\obj\Debug\MainWindow.baml
+c:\users\eugen\documents\visual studio 2015\Projects\Fifteen\Fifteen\obj\Debug\Fifteen.g.resources
+c:\users\eugen\documents\visual studio 2015\Projects\Fifteen\Fifteen\obj\Debug\Fifteen.Properties.Resources.resources
+c:\users\eugen\documents\visual studio 2015\Projects\Fifteen\Fifteen\obj\Debug\Fifteen.csproj.GenerateResource.Cache
+c:\users\eugen\documents\visual studio 2015\Projects\Fifteen\Fifteen\obj\Debug\Fifteen.exe
+c:\users\eugen\documents\visual studio 2015\Projects\Fifteen\Fifteen\obj\Debug\Fifteen.pdb
+C:\Users\eugen\Documents\Visual Studio 2015\Projects\Fifteen\Fifteen\obj\Debug\WindowComplete.g.cs
+C:\Users\eugen\Documents\Visual Studio 2015\Projects\Fifteen\Fifteen\obj\Debug\WindowComplete.baml
